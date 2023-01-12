@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Pani</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<p align="left"> <a href="https://twitter.com/ankitpanii" target="blank"><img src="https://img.shields.io/twitter/follow/ankitpanii?logo=twitter&style=for-the-badge" alt="ankitpanii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/soutankit" target="blank"><img src="https://img.shields.io/twitter/follow/ankitpanii?logo=twitter&style=for-the-badge" alt="ankitpanii" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms using Java**
 
